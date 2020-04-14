@@ -4,7 +4,7 @@ The challenge to code at least one hour every day for the next 100 days.
 
 Challenge being fulfilled by: Lucas Hiago
 
-![progress](https://progress-bar.dev/93/ "progress")
+![progress](https://progress-bar.dev/94/ "progress")
 
 ## Two Main Rules
 
