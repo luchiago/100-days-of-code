@@ -21,4 +21,4 @@ Challenge being fulfilled by: Lucas Hiago
 
 ## Weekly posting on my blog
 
-Creating a portfolio / blog is part of my 100 days of code. When the blog is ready, I'll include it here.
+[Portfolio](luchiago.github.io)
